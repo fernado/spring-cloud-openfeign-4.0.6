@@ -1,0 +1,23 @@
+image::https://github.com/spring-cloud/spring-cloud-openfeign/workflows/Build/badge.svg?branch=4.0.x&style=svg["Build",link="https://github.com/spring-cloud/spring-cloud-openfeign/actions"]
+
+image:https://codecov.io/gh/spring-cloud/spring-cloud-openfeign/branch/4.0.x/graph/badge.svg["Codecov", link="https://app.codecov.io/gh/spring-cloud/spring-cloud-openfeign/tree/4.0.x"]
+
+include::_attributes.adoc[]
+
+include::intro.adoc[]
+
+== Features
+
+* Declarative REST Client: Feign creates a dynamic implementation of an interface decorated with JAX-RS or Spring MVC annotations
+
+== Building
+
+include::https://raw.githubusercontent.com/spring-cloud/spring-cloud-build/main/docs/modules/ROOT/partials/building.adoc[]
+
+== Contributing
+
+include::https://raw.githubusercontent.com/spring-cloud/spring-cloud-build/main/docs/modules/ROOT/partials/contributing-docs.adoc[]
+
+== License
+
+The project license file is available https://raw.githubusercontent.com/spring-cloud/spring-cloud-openfeign/main/LICENSE.txt[here].
